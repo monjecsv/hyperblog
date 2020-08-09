@@ -6,3 +6,6 @@ Vamos a ver como funciona.
 Se le agrega este comando para verificar cambios.
 
 Se adicional linea
+
+
+Con este cambio pruebo atajo de teclado 
