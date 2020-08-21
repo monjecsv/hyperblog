@@ -23,11 +23,14 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+#post
+{
+    padding: 1em;
+}
 
 #container
 {
 	width: 70%;
-    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0.5em auto;
